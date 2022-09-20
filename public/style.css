@@ -1,4 +1,13 @@
 
+@media(max-width: 767px){
+    .home-categorias,.cabecalho{
+        display: none!important;
+    }
+    .img-home{
+        margin-top: -1em!important;
+    }
+}
+
 @media(min-width:1024px){
     input#search {
         border: 1px solid #959595;
