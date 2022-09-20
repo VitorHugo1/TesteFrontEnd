@@ -1,0 +1,10 @@
+:root{
+    --color-1:#FFF;
+    --color-2:#CB0D1F; 
+    --color-3:#E2DEDC;
+    --color-4:#000;
+    --font-1:"OpenSans-Extrabold";
+}
+*{
+    margin:0;
+}

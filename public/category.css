@@ -1,0 +1,42 @@
+.breadcrumbs {
+    display: flex;
+}
+.breadcrumbs h3 {
+    display: flex;
+    font-size: 17px;
+    display: flex;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+h1.filtro {
+    font-size: 24px;
+    color: #ED1A39;
+}
+.pagina {
+    color: #00A8A9;
+}
+.sapatos {
+    color: #CB0D1F;
+}
+.home-categorias-categorias{
+    border: 1px solid #E2DEDC;
+    display: flex;
+    top: 222px;
+    left: 101px;
+    width: 261px;
+    height: 507px;
+    opacity: 1;
+    margin-left: 1em;
+    margin-top: -5em;
+}
+.title-home {
+    margin-left: 19em;
+}
+.modes {
+    display: flex;
+    margin-left: 72em;
+}
+.title-home h1 {
+    font-size: 32px;
+    color: #ED1A39;
+}
